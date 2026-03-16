@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Edvard 👋
 
-<!--
-**paszed/paszed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building developer tools and systems.
 
-Here are some ideas to get you started:
+Currently working on **Doctor**, a CLI tool for diagnosing developer environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Doctor
+
+CLI tool designed to help developers quickly diagnose issues in their development environments.
+
+https://github.com/paszed/doctor
+
+## Tech
+
+- Go
+- CLI tools
+- developer infrastructure
+- system diagnostics
