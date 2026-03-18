@@ -18,3 +18,11 @@ CLI tool for diagnosing developer environments and verifying installed tooling.
 - Based in Vienna, Austria  
 - Interested in CLI tooling, developer infrastructure, and automation  
 - Focused on building small, composable developer tools
+
+---
+
+## Links
+
+Website: https://paszed.me  
+GitHub: https://github.com/paszed  
+Twitter/X: https://x.com/paszed_
