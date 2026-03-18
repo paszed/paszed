@@ -24,5 +24,4 @@ CLI tool for diagnosing developer environments and verifying installed tooling.
 ## Links
 
 Website: https://paszed.me  
-GitHub: https://github.com/paszed  
 Twitter/X: https://x.com/paszed_
