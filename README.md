@@ -1,20 +1,19 @@
 # Hi, I'm Edvard 👋
 
-I enjoy building developer tools and systems.
+Building CLI tools and developer infrastructure.
 
-Currently working on **Doctor**, a CLI tool for diagnosing developer environments.
+Currently working on **doctor** — a CLI tool for diagnosing developer environments and verifying installed tooling.
 
-## Projects
+---
 
-### Doctor
+## Current Project
 
-CLI tool designed to help developers quickly diagnose issues in their development environments.
+🩺 **doctor**  
+Diagnose developer environments and verify installed tooling.
 
-https://github.com/paszed/doctor
+---
 
-## Tech
-
-- Go
-- CLI tools
-- developer infrastructure
-- system diagnostics
+##About
+- Based in Vienna, Austria  
+- Interested in CLI tooling, developer infrastructure, and automation  
+- Focused on building small, composable developer tools
