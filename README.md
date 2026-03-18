@@ -1,8 +1,8 @@
 # Hi, I'm Edvard 👋
 
-Building CLI tools and developer infrastructure.
+CLI tools and developer infrastructure.
 
-Currently working on **doctor** — a CLI for diagnosing developer environments and verifying installed tooling.
+Currently building **doctor** — a CLI for diagnosing developer environments and verifying installed tooling.
 
 ---
 
@@ -21,6 +21,6 @@ CLI tool for diagnosing developer environments and verifying installed tooling.
 
 ---
 
-## Links
+## Contact
 
-[paszed.me](https://paszed.me) · [@paszed_](https://x.com/paszed_)
+[paszed.me](https://paszed.me) · [@paszed_](https://x.com/paszed_) · edvard@paszed.me
