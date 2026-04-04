@@ -1,36 +1,41 @@
 # Hi, I'm Edvard 👋
 
-Building small, fast, useful tools.
+Building tools to automate annoying things.
+
+Composable tools for extracting, monitoring, and working with data.
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Toolkit
 
-- 🩺 **[doctor](https://github.com/paszed/doctor)** — Developer environment diagnostics CLI. Automatically check, diagnose, and fix your setup.
-
-- 🍝 **[pasta](https://github.com/paszed/pasta)** — Clean messy text instantly in the browser. Paste → clean → done.
+🚜 tractor — Pull data from the web into structured formats 
+🐶 sniff — Watchdog for the web. Alerts you when something changes 
+🍝 pasta — Paste → clean → usable data 
+🧠 simon — System operator for developer workflows 
 
 ---
 
-## 🧠 What I Do
+## 🧠 Approach
 
-- Automation & scripting 
-- Websites & small apps 
-- Developer tools 
-- Data cleanup & transformation 
+- Small, focused tools 
+- Fast, minimal, composable 
+- Built for real workflows 
+
+---
+
+## ⚡ Start here
+
+- Use tractor to extract data 
+- Use sniff to monitor changes 
+- Use pasta to clean and normalize 
+- Use simon to reason and act 
+
+Simple tools. Combined workflows.
 
 ---
 
 ## 🔗 Links
 
-- 🐙 https://github.com/paszed 
-- 🐦 https://twitter.com/paszed_ 
-- ✉️ edvard@paszed.me 
-
----
-
-## ⚡ Philosophy
-
-- Fast 
-- Simple 
-- Instantly useful 
+- GitHub: https://github.com/paszed 
+- Twitter: https://twitter.com/paszed_ 
+- Email: edvard@paszed.me
