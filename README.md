@@ -8,10 +8,32 @@ Composable tools for extracting, monitoring, and working with data.
 
 ## 🚀 Toolkit
 
-🚜 tractor — Pull data from the web into structured formats 
-🐶 sniff — Watchdog for the web. Alerts you when something changes 
-🍝 pasta — Paste → clean → usable data 
-🧠 simon — System operator for developer workflows 
+### 🚜 tractor
+Pull data from the web into structured formats.
+
+→ https://github.com/paszed/tractor
+
+---
+
+### 🐶 sniff
+Watchdog for the web. 
+Alerts you when something changes.
+
+→ https://github.com/paszed/sniff
+
+---
+
+### 🍝 pasta
+Paste → clean → usable data.
+
+→ https://github.com/paszed/pasta
+
+---
+
+### 🧠 simon
+System operator for developer workflows.
+
+→ https://github.com/paszed/simon
 
 ---
 
