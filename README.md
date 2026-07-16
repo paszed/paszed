@@ -1,47 +1,73 @@
 # Hi, I'm Edvard 👋
 
-I'm a software engineer building developer tools, AI applications, and modern web products.
+I'm a software engineer building infrastructure for developers, AI agents, and modern platforms.
 
-Currently focused on creating high-quality software with an emphasis on clean architecture, performance, and developer experience.
+I enjoy designing systems from first principles—developer tooling, autonomous workflows, moderation platforms, and the foundations that power them.
 
 ---
 
 ## Currently Building
 
 - 🌐 **paszed.me** — Personal website, portfolio, and engineering blog
-- 🛠️ Open-source developer tools
-- 🤖 AI-powered applications
-- 📦 Reusable libraries and templates
+- 🤖 **Agent Network** — Infrastructure for autonomous AI agents and orchestration
+- 🛡️ **Trust Platform** — Trust & safety, moderation, and operational tooling
+- 🚀 **Bootstrapper** — Opinionated developer workstation bootstrapper
+- 🎨 **Design System** — Shared UI foundation across my projects
+- ⚙️ **Dotfiles** — My Neovim, Ghostty, tmux, and CLI configuration
 
 ---
 
 ## Technologies
 
 ```text
-TypeScript • Go • Python
-React • Next.js • Node.js
+Languages
+TypeScript • Go • Rust • Python
 
-Docker • PostgreSQL • Redis
-Cloudflare • Supabase • Vercel
+Frontend
+React • Next.js • Tailwind CSS
 
-GitHub Actions • Linux • macOS
+Backend
+Node.js • PostgreSQL • Redis
+
+Infrastructure
+Docker • Cloudflare • Supabase • Vercel
+
+Tooling
+GitHub Actions • Linux • macOS • Neovim
 ```
+
+---
+
+## Interests
+
+- AI Agents
+- Developer Experience
+- Platform Engineering
+- Trust & Safety
+- Distributed Systems
+- Infrastructure Automation
+- Open Source
 
 ---
 
 ## Philosophy
 
-- Build things people actually use.
-- Prefer simplicity over unnecessary complexity.
-- Ship small, improve continuously.
+- Build systems, not just applications.
+- Design for maintainability before scale.
+- Keep complexity intentional.
 - Invest in developer experience.
+- Ship, measure, iterate.
 
 ---
 
 ## Find me
 
-- 🌐 Website — https://paszed.me
-- 🐙 GitHub — https://github.com/paszed
-- 💬 Reddit — https://reddit.com/u/paszed
-- 🐦 X — https://x.com/paszed_
-- ✉️ Email — edvard@paszed.me
+🌍 **Website** — https://paszed.me
+
+🐙 **GitHub** — https://github.com/paszed
+
+💬 **Reddit** — https://reddit.com/u/paszed
+
+𝕏 **X** — https://x.com/paszed_
+
+✉️ **Email** — edvard@paszed.me
