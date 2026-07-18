@@ -1,19 +1,19 @@
 # Hi, I'm Edvard 👋
 
-I'm a software engineer building infrastructure for developers, AI agents, and modern platforms.
+I'm a software engineer focused on building platforms, developer tooling, and AI systems.
 
-I enjoy designing systems from first principles—developer tooling, autonomous workflows, moderation platforms, and the foundations that power them.
+I enjoy designing software from first principles—creating the infrastructure that makes complex systems easier to build, operate, and evolve. My work spans developer experience, distributed systems, AI orchestration, Trust & Safety, and frontend architecture.
 
 ---
 
-## Currently Building
+## Current Projects
 
-- 🌐 **paszed.me** — Personal website, portfolio, and engineering blog
-- 🤖 **Agent Network** — Infrastructure for autonomous AI agents and orchestration
-- 🛡️ **Trust Platform** — Trust & safety, moderation, and operational tooling
-- 🚀 **Bootstrapper** — Opinionated developer workstation bootstrapper
-- 🎨 **Design System** — Shared UI foundation across my projects
-- ⚙️ **Dotfiles** — My Neovim, Ghostty, tmux, and CLI configuration
+- 🌐 **paszed.me** — Portfolio, technical writing, and project case studies
+- 🤖 **Agent Network** — A distributed runtime for collaborative AI systems
+- 🛡️ **Trust Platform** — Event-driven Trust & Safety infrastructure
+- 🎨 **Design System** — A layered UI architecture for scalable interfaces
+- 🚀 **Bootstrapper** — Developer tooling and project scaffolding
+- ⚙️ **Dotfiles** — A reproducible development environment
 
 ---
 
@@ -32,35 +32,37 @@ Node.js • PostgreSQL • Redis
 Infrastructure
 Docker • Cloudflare • Supabase • Vercel
 
-Tooling
-GitHub Actions • Linux • macOS • Neovim
+Developer Experience
+GitHub Actions • Neovim • Linux • macOS
 ```
 
 ---
 
-## Interests
+## Areas of Interest
 
-- AI Agents
-- Developer Experience
+- AI Systems
 - Platform Engineering
+- Developer Experience
 - Trust & Safety
 - Distributed Systems
+- Frontend Architecture
 - Infrastructure Automation
 - Open Source
 
 ---
 
-## Philosophy
+## Engineering Philosophy
 
-- Build systems, not just applications.
-- Design for maintainability before scale.
-- Keep complexity intentional.
+- Build platforms, not just products.
+- Prefer composition over complexity.
+- Design for long-term maintainability.
 - Invest in developer experience.
-- Ship, measure, iterate.
+- Make systems observable and explainable.
+- Keep abstractions intentional.
 
 ---
 
-## Find me
+## Connect
 
 🌍 **Website** — https://paszed.me
 
