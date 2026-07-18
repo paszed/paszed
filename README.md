@@ -1,18 +1,19 @@
 # Hi, I'm Edvard 👋
 
-I'm a software engineer focused on building platforms, developer tooling, and AI systems.
+I'm a software engineer focused on building composable platforms for developers, AI systems, and modern software.
 
-I enjoy designing software from first principles—creating the infrastructure that makes complex systems easier to build, operate, and evolve. My work spans developer experience, distributed systems, AI orchestration, Trust & Safety, and frontend architecture.
+I enjoy designing systems from first principles—creating infrastructure that makes complex software easier to build, operate, and evolve. My work spans developer tooling, frontend architecture, distributed systems, Trust & Safety, AI orchestration, and personal data infrastructure.
 
 ---
 
-## Current Projects
+## Platform Ecosystem
 
 - 🌐 **paszed.me** — Portfolio, technical writing, and project case studies
-- 🤖 **Agent Network** — A distributed runtime for collaborative AI systems
-- 🛡️ **Trust Platform** — Event-driven Trust & Safety infrastructure
-- 🎨 **Design System** — A layered UI architecture for scalable interfaces
 - 🚀 **Bootstrapper** — Developer tooling and project scaffolding
+- 🎨 **Design System** — A layered UI architecture for scalable interfaces
+- 🛡️ **Trust Platform** — Event-driven Trust & Safety infrastructure
+- 🤖 **Agent Network** — A distributed runtime for collaborative AI systems
+- 🗂️ **Data Platform** *(Planning)* — A plugin-based platform for unifying personal data, automation, and AI
 - ⚙️ **Dotfiles** — A reproducible development environment
 
 ---
@@ -56,8 +57,8 @@ GitHub Actions • Neovim • Linux • macOS
 - Build platforms, not just products.
 - Prefer composition over complexity.
 - Design for long-term maintainability.
-- Invest in developer experience.
 - Make systems observable and explainable.
+- Invest in developer experience.
 - Keep abstractions intentional.
 
 ---
@@ -65,6 +66,8 @@ GitHub Actions • Neovim • Linux • macOS
 ## Connect
 
 🌍 **Website** — https://paszed.me
+
+💼 **LinkedIn** — https://linkedin.com/in/paszed
 
 🐙 **GitHub** — https://github.com/paszed
 
