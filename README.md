@@ -1,78 +1,77 @@
-# Hi, I'm Edvard 👋
+Hi, I’m Edvard 👋
 
-I'm a software engineer focused on building composable platforms for developers, AI systems, and modern software.
+I’m a software engineer focused on building composable infrastructure, developer platforms, and AI systems.
 
-I enjoy designing systems from first principles—creating infrastructure that makes complex software easier to build, operate, and evolve. My work spans developer tooling, frontend architecture, distributed systems, Trust & Safety, AI orchestration, and personal data infrastructure.
+I enjoy designing systems from first principles—building reusable foundations that make software easier to create, operate, and evolve. My work spans developer tooling, frontend architecture, search, content infrastructure, Trust & Safety, AI orchestration, and personal data systems.
 
----
+⸻
 
-## Platform Ecosystem
+Platform Ecosystem
 
-- 🌐 **paszed.me** — Portfolio, technical writing, and project case studies
-- 🚀 **Bootstrapper** — Developer tooling and project scaffolding
-- 🎨 **Design System** — A layered UI architecture for scalable interfaces
-- 🛡️ **Trust Platform** — Event-driven Trust & Safety infrastructure
-- 🤖 **Agent Network** — A distributed runtime for collaborative AI systems
-- 🗂️ **Data Platform** *(Planning)* — A plugin-based platform for unifying personal data, automation, and AI
-- ⚙️ **Dotfiles** — A reproducible development environment
+* 🌐 paszed.me — Personal platform for technical writing, projects, and engineering work
+* 🚀 bootstrapper — Project scaffolding and development environment automation
+* 🎨 design-system — Composable primitives, components, patterns, and interface infrastructure
+* 📝 content-engine — Reusable infrastructure for structured content and publishing
+* 🔎 search — Search infrastructure and reusable discovery primitives
+* 🛡️ trust-platform — Trust & Safety infrastructure for moderation, policy, and risk systems
+* 🤖 agent-network — Infrastructure for orchestrating collaborative AI agents
+* 🗂️ data-platform — Personal data infrastructure for unification, automation, and AI
+* 🧰 engineering — Shared engineering standards, conventions, and technical foundations
+* ⚙️ dotfiles — Reproducible development environment and workstation configuration
 
----
+⸻
 
-## Technologies
+Technologies
 
-```text
 Languages
 TypeScript • Go • Rust • Python
-
 Frontend
 React • Next.js • Tailwind CSS
-
 Backend
 Node.js • PostgreSQL • Redis
-
 Infrastructure
 Docker • Cloudflare • Supabase • Vercel
-
 Developer Experience
 GitHub Actions • Neovim • Linux • macOS
-```
 
----
+⸻
 
-## Areas of Interest
+Areas of Interest
 
-- AI Systems
-- Platform Engineering
-- Developer Experience
-- Trust & Safety
-- Distributed Systems
-- Frontend Architecture
-- Infrastructure Automation
-- Open Source
+* Platform Engineering
+* AI Systems & Agent Infrastructure
+* Developer Experience
+* Software Architecture
+* Search & Information Retrieval
+* Trust & Safety
+* Frontend Infrastructure
+* Infrastructure Automation
+* Open Source
 
----
+⸻
 
-## Engineering Philosophy
+Engineering Philosophy
 
-- Build platforms, not just products.
-- Prefer composition over complexity.
-- Design for long-term maintainability.
-- Make systems observable and explainable.
-- Invest in developer experience.
-- Keep abstractions intentional.
+* Build reusable foundations, not one-off solutions.
+* Prefer composition over complexity.
+* Own the opinion; outsource the commodity.
+* Keep abstractions intentional.
+* Make systems observable and explainable.
+* Design for long-term maintainability.
+* Treat developer experience as part of the architecture.
 
----
+⸻
 
-## Connect
+Connect
 
-🌍 **Website** — https://paszed.me
+🌍 Website — paszed.me
 
-💼 **LinkedIn** — https://linkedin.com/in/paszed
+💼 LinkedIn — linkedin.com/in/paszed
 
-🐙 **GitHub** — https://github.com/paszed
+🐙 GitHub — github.com/paszed
 
-💬 **Reddit** — https://reddit.com/u/paszed
+💬 Reddit — reddit.com/u/paszed
 
-𝕏 **X** — https://x.com/paszed_
+𝕏 X — x.com/paszed_
 
-✉️ **Email** — edvard@paszed.me
+✉️ Email — edvard@paszed.me
