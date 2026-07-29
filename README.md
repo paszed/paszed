@@ -1,8 +1,10 @@
 # Hi, I'm Edvard 👋
 
-I'm a software engineer building **composable software platforms, developer infrastructure, and intelligent systems**.
+Building an ecosystem of open-source software.
 
-I believe products should be assembled from reusable platforms rather than built as isolated applications. My work focuses on creating modular infrastructure that evolves independently while composing into larger systems.
+**Developer tools • AI systems • Infrastructure • Platforms • Libraries • Automation**
+
+I believe software should be assembled from reusable platforms rather than built as isolated applications. My work focuses on building modular systems that evolve independently while composing into larger ecosystems.
 
 ---
 
@@ -14,12 +16,11 @@ The repositories below form a layered engineering ecosystem.
 
 | Repository | Description |
 |------------|-------------|
+| **[monorepo](https://github.com/paszed/monorepo)** | Shared development workspace containing reusable tooling, templates, packages, and engineering infrastructure used across the ecosystem. |
 | **[dotfiles](https://github.com/paszed/dotfiles)** | Reproducible development environment and workstation configuration. |
 | **[engineering](https://github.com/paszed/engineering)** | Engineering standards, conventions, workflows, and technical foundations. |
 | **[bootstrapper](https://github.com/paszed/bootstrapper)** | Project scaffolding and development environment automation. |
 | **[cli](https://github.com/paszed/cli)** | Unified command-line interface for managing the ecosystem. |
-| **[docs](https://github.com/paszed/docs)** | Architecture, documentation, guides, and technical references. |
-| **[templates](https://github.com/paszed/templates)** | Production-ready project, repository, service, and application templates. |
 
 ---
 
@@ -68,7 +69,6 @@ The repositories below form a layered engineering ecosystem.
 | Repository | Description |
 |------------|-------------|
 | **[design-system](https://github.com/paszed/design-system)** | Composable UI primitives, components, and design foundations. |
-| **[assets](https://github.com/paszed/assets)** | Shared brand assets, icons, illustrations, fonts, and visual resources. |
 | **[web-platform](https://github.com/paszed/web-platform)** | Foundation for building scalable, modern web applications. |
 
 ---
@@ -92,10 +92,10 @@ The repositories below form a layered engineering ecosystem.
 
 # Philosophy
 
-> Build reusable platforms, not one-off solutions.
+> **Build reusable platforms, not one-off applications.**
 
 - Composition over duplication.
-- Clear boundaries create scalable systems.
+- Clear boundaries enable scalable systems.
 - Infrastructure should be reusable.
 - Developer experience is part of the architecture.
 - Make systems observable, understandable, and maintainable.
