@@ -1,80 +1,147 @@
 # Hi, I'm Edvard 👋
 
-I'm a software engineer focused on building **composable infrastructure, developer platforms, and AI systems**.
+I'm a software engineer focused on building **composable software platforms, developer infrastructure, and AI systems**.
 
-I design reusable foundations that make software easier to build, operate, and evolve — from developer tooling and platform infrastructure to search, Trust & Safety, and AI orchestration.
+Rather than building isolated applications, I design modular platforms that can be composed into larger products. Each repository has a clearly defined responsibility and evolves independently while contributing to a shared ecosystem.
 
-## Platform Ecosystem
+---
 
-My projects form a growing ecosystem of composable infrastructure, shared capabilities, and developer tooling.
+# Platform Ecosystem
 
-### Engineering Environment
+The ecosystem is organized into layers, from engineering foundations to reusable platform capabilities and applications.
 
-- ⚙️ [**dotfiles**](https://github.com/paszed/dotfiles) — Reproducible development environment and workstation configuration
-- 🧰 [**engineering**](https://github.com/paszed/engineering) — Shared engineering standards, conventions, and technical foundations
-- 🚀 [**bootstrapper**](https://github.com/paszed/bootstrapper) — Project scaffolding and development environment automation
-- ⌨️ [**cli**](https://github.com/paszed/cli) — Unified command-line interface for interacting with the ecosystem
+## 🛠 Engineering
 
-### Platform Infrastructure
+| Repository | Description |
+|------------|-------------|
+| **[dotfiles](https://github.com/paszed/dotfiles)** | Reproducible development environment and workstation configuration. |
+| **[engineering](https://github.com/paszed/engineering)** | Engineering standards, conventions, workflows, and technical foundations. |
+| **[bootstrapper](https://github.com/paszed/bootstrapper)** | Project scaffolding and development environment automation. |
+| **[cli](https://github.com/paszed/cli)** | Unified command-line interface for managing the ecosystem. |
+| **[docs](https://github.com/paszed/docs)** | Architecture, documentation, guides, and technical references. |
+| **[templates](https://github.com/paszed/templates)** | Production-ready project, repository, service, and application templates. |
 
-- 🪪 [**identity**](https://github.com/paszed/identity) — Identity, authentication, authorization, and access-control infrastructure
-- 🔀 [**event-platform**](https://github.com/paszed/event-platform) — Event contracts and infrastructure for communication between systems
-- 📡 [**observability**](https://github.com/paszed/observability) — Logging, metrics, tracing, diagnostics, and telemetry infrastructure
-- 🧪 [**testkit**](https://github.com/paszed/testkit) — Shared testing utilities, fixtures, harnesses, and infrastructure
+---
 
-### Reusable Capabilities
+## 🏗 Platform Infrastructure
 
-- 🎨 [**design-system**](https://github.com/paszed/design-system) — Composable primitives, components, patterns, and interface infrastructure
-- 📝 [**content-engine**](https://github.com/paszed/content-engine) — Structured content and publishing infrastructure
-- 🔎 [**search**](https://github.com/paszed/search) — Search, retrieval, ranking, and discovery infrastructure
-- 🛡️ [**trust-platform**](https://github.com/paszed/trust-platform) — Trust & Safety infrastructure for moderation, policy, and risk systems
-- 🗂️ [**data-platform**](https://github.com/paszed/data-platform) — Personal data infrastructure for unification, automation, and AI
+| Repository | Description |
+|------------|-------------|
+| **[infrastructure](https://github.com/paszed/infrastructure)** | Shared infrastructure foundations, deployment patterns, and platform primitives. |
+| **[identity](https://github.com/paszed/identity)** | Identity, authentication, authorization, and access management. |
+| **[security](https://github.com/paszed/security)** | Authentication, auditing, compliance, and security infrastructure. |
+| **[event-platform](https://github.com/paszed/event-platform)** | Event contracts, messaging, and event-driven communication. |
+| **[observability](https://github.com/paszed/observability)** | Logging, metrics, tracing, monitoring, and diagnostics. |
+| **[testkit](https://github.com/paszed/testkit)** | Shared testing utilities, fixtures, mocks, and quality tooling. |
 
-### AI & Orchestration
+---
 
-- 🤖 [**agent-network**](https://github.com/paszed/agent-network) — Infrastructure for orchestrating collaborative AI agents and capabilities
+## ⚡ Shared Platform Capabilities
 
-### Applications
+| Repository | Description |
+|------------|-------------|
+| **[api](https://github.com/paszed/api)** | Shared API contracts, schemas, and service interfaces. |
+| **[sdk](https://github.com/paszed/sdk)** | Shared software development kits and client libraries. |
+| **[analytics](https://github.com/paszed/analytics)** | Metrics, events, reporting, and business intelligence. |
+| **[automation](https://github.com/paszed/automation)** | Workflow orchestration, scheduling, and background jobs. |
+| **[notifications](https://github.com/paszed/notifications)** | Email, SMS, push, and messaging infrastructure. |
+| **[payments](https://github.com/paszed/payments)** | Billing, subscriptions, and payment processing. |
+| **[integrations](https://github.com/paszed/integrations)** | Reusable integrations with third-party services and APIs. |
+| **[search](https://github.com/paszed/search)** | Search, indexing, retrieval, ranking, and discovery. |
+| **[content-engine](https://github.com/paszed/content-engine)** | Structured content creation, transformation, and publishing. |
+| **[data-platform](https://github.com/paszed/data-platform)** | Data infrastructure, pipelines, storage, and processing. |
+| **[trust-platform](https://github.com/paszed/trust-platform)** | Trust, safety, moderation, verification, and abuse prevention. |
 
-- 🌐 [**paszed.me**](https://github.com/paszed/paszed.me) — Personal platform for technical writing, projects, and engineering work
+---
 
-## Technologies
+## 🤖 Artificial Intelligence
 
-**Languages**  
-TypeScript · Go · Rust · Python
+| Repository | Description |
+|------------|-------------|
+| **[ai](https://github.com/paszed/ai)** | Composable AI infrastructure, model orchestration, retrieval, and intelligent systems. |
+| **[agent-network](https://github.com/paszed/agent-network)** | Infrastructure for orchestrating collaborative AI agents and autonomous workflows. |
 
-**Frontend**  
-React · Next.js · Tailwind CSS
+---
 
-**Backend**  
-Node.js · PostgreSQL · Redis
+## 🎨 Web Platform
 
-**Infrastructure**  
-Docker · Cloudflare · Supabase · Vercel
+| Repository | Description |
+|------------|-------------|
+| **[design-system](https://github.com/paszed/design-system)** | Composable UI primitives, components, and design foundations. |
+| **[assets](https://github.com/paszed/assets)** | Shared brand assets, icons, illustrations, fonts, and visual resources. |
+| **[web-platform](https://github.com/paszed/web-platform)** | Foundation for building scalable, modern web applications. |
 
-**Developer Experience**  
-GitHub Actions · Neovim · Linux · macOS
+---
 
-## Areas of Interest
+## 🧪 Research
 
-`Platform Engineering` · `AI Systems` · `Developer Experience` · `Software Architecture`
+| Repository | Description |
+|------------|-------------|
+| **[experiments](https://github.com/paszed/experiments)** | Research, prototypes, benchmarking, and experimental engineering. |
+| **[playground](https://github.com/paszed/playground)** | Sandbox for learning, API exploration, and rapid prototyping. |
 
-`Distributed Systems` · `Search & Information Retrieval` · `Trust & Safety`
+---
 
-`Frontend Infrastructure` · `Infrastructure Automation` · `Open Source`
+## 🌍 Applications
 
-## Engineering Philosophy
+| Repository | Description |
+|------------|-------------|
+| **[paszed.me](https://github.com/paszed/paszed.me)** | Personal website, writing, projects, and engineering work. |
+| **verra2** *(private)* | Trust-first marketplace built on top of the platform ecosystem. |
 
-> Build reusable foundations, not one-off solutions.
+---
 
-- Prefer composition over complexity.
-- Own the opinion; outsource the commodity.
-- Keep abstractions intentional.
-- Make systems observable and explainable.
-- Design for long-term maintainability.
-- Treat developer experience as part of the architecture.
+# Technologies
 
-## Connect
+### Languages
+
+TypeScript • Go • Rust • Python
+
+### Frontend
+
+React • Next.js • Tailwind CSS
+
+### Backend
+
+Node.js • PostgreSQL • Redis
+
+### Infrastructure
+
+Docker • Cloudflare • Supabase • Vercel
+
+### Developer Experience
+
+GitHub Actions • Neovim • Linux • macOS
+
+---
+
+# Areas of Interest
+
+- Platform Engineering
+- Software Architecture
+- AI Systems
+- Developer Experience
+- Distributed Systems
+- Search & Information Retrieval
+- Trust & Safety
+- Infrastructure Automation
+- Open Source
+
+---
+
+# Engineering Philosophy
+
+> Build reusable platforms, not one-off solutions.
+
+- Composition over duplication.
+- Strong boundaries create scalable systems.
+- Infrastructure should be reusable.
+- Developer experience is part of the architecture.
+- Make systems observable, understandable, and maintainable.
+
+---
+
+# Connect
 
 <p align="left">
   <a href="https://paszed.me">
@@ -90,7 +157,7 @@ GitHub Actions · Neovim · Linux · macOS
     <img src="https://img.shields.io/badge/Reddit-paszed-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
   <a href="https://x.com/paszed_">
-    <img src="https://img.shields.io/badge/X-paszed__-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-paszed_-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="mailto:edvard@paszed.me">
     <img src="https://img.shields.io/badge/Email-edvard%40paszed.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
