@@ -1,14 +1,14 @@
 # Hi, I'm Edvard 👋
 
-I'm a software engineer focused on building **composable software platforms, developer infrastructure, and AI systems**.
+I'm a software engineer building **composable software platforms, developer infrastructure, and intelligent systems**.
 
-Rather than building isolated applications, I design modular platforms that can be composed into larger products. Each repository has a clearly defined responsibility and evolves independently while contributing to a shared ecosystem.
+I believe products should be assembled from reusable platforms rather than built as isolated applications. My work focuses on creating modular infrastructure that evolves independently while composing into larger systems.
 
 ---
 
-# Platform Ecosystem
+# Ecosystem
 
-The ecosystem is organized into layers, from engineering foundations to reusable platform capabilities and applications.
+The repositories below form a layered engineering ecosystem.
 
 ## 🛠 Engineering
 
@@ -36,7 +36,7 @@ The ecosystem is organized into layers, from engineering foundations to reusable
 
 ---
 
-## ⚡ Shared Platform Capabilities
+## ⚡ Platform Capabilities
 
 | Repository | Description |
 |------------|-------------|
@@ -63,7 +63,7 @@ The ecosystem is organized into layers, from engineering foundations to reusable
 
 ---
 
-## 🎨 Web Platform
+## 🌐 Web Platform
 
 | Repository | Description |
 |------------|-------------|
@@ -87,54 +87,15 @@ The ecosystem is organized into layers, from engineering foundations to reusable
 | Repository | Description |
 |------------|-------------|
 | **[paszed.me](https://github.com/paszed/paszed.me)** | Personal website, writing, projects, and engineering work. |
-| **verra2** *(private)* | Trust-first marketplace built on top of the platform ecosystem. |
 
 ---
 
-# Technologies
-
-### Languages
-
-TypeScript • Go • Rust • Python
-
-### Frontend
-
-React • Next.js • Tailwind CSS
-
-### Backend
-
-Node.js • PostgreSQL • Redis
-
-### Infrastructure
-
-Docker • Cloudflare • Supabase • Vercel
-
-### Developer Experience
-
-GitHub Actions • Neovim • Linux • macOS
-
----
-
-# Areas of Interest
-
-- Platform Engineering
-- Software Architecture
-- AI Systems
-- Developer Experience
-- Distributed Systems
-- Search & Information Retrieval
-- Trust & Safety
-- Infrastructure Automation
-- Open Source
-
----
-
-# Engineering Philosophy
+# Philosophy
 
 > Build reusable platforms, not one-off solutions.
 
 - Composition over duplication.
-- Strong boundaries create scalable systems.
+- Clear boundaries create scalable systems.
 - Infrastructure should be reusable.
 - Developer experience is part of the architecture.
 - Make systems observable, understandable, and maintainable.
@@ -157,9 +118,9 @@ GitHub Actions • Neovim • Linux • macOS
     <img src="https://img.shields.io/badge/Reddit-paszed-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
   <a href="https://x.com/paszed_">
-    <img src="https://img.shields.io/badge/X-paszed_-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-@paszed_-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="mailto:edvard@paszed.me">
-    <img src="https://img.shields.io/badge/Email-edvard%40paszed.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-edvard@paszed.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
