@@ -27,10 +27,6 @@ My personal website, portfolio, and home for everything I'm building.
 
 Developer platform for creating, managing, and maintaining production-ready software projects through a unified CLI, reusable tooling, templates, and engineering standards.
 
-### 🔍 [Insight](https://github.com/paszed/insight)
-
-Repository intelligence platform for analyzing, understanding, and reasoning about codebases.
-
 ### ⚙️ [dotfiles](https://github.com/paszed/dotfiles)
 
 My reproducible development environment and terminal-first workflow.
